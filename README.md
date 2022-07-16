@@ -1,6 +1,6 @@
 <h1 align="center">:computer:Desarrollo Web:computer:</h1></center>
 
-![diseño-web-jerez-de-la-frontera-desarrollo-web](https://user-images.githubusercontent.com/53123654/179338632-2d22ad4a-34a0-4081-9aa5-dd59f79e366e.jpg)
+![web](https://user-images.githubusercontent.com/53123654/179339644-66693c28-8013-4854-bc24-bdd3378a6209.gif)
 
 <h1 align="center">:school:UMG:school:</h1>
 
