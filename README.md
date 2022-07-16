@@ -4,5 +4,8 @@
 
 <h1 align="center">:school:UMG:school:</h1>
 
-<h3>Hola, Soy Deyber y me da mucho gusto tenerte por acá:wave:<h3>
-<h3>Estoy cursando Desarrollo Web y soy nuevo en esto:grin: tengo las ganas de aprender y obtener nuevos conocimientos en este leguanje:pencil2:<h3>
+<h3>:white_check_mark:Hola, Soy Deyber y me da mucho gusto tenerte por acá:wave:<h3>
+<h3>:white_check_mark:Estudio Ingeniería en Sistemas:computer:<h3>
+<h3>:white_check_mark:Estoy cursando Desarrollo Web y soy nuevo en esto:grin: tengo las ganas de aprender y obtener nuevos conocimientos en este leguanje:pencil2:si deseas darme algunos tips o recomendarme algunas buenas prácticas te lo agradeceré muchisímo:+1:<h3>
+
+![tumblr_m5mysuYi0N1qkrsilo1_500](https://user-images.githubusercontent.com/53123654/179340037-d3393677-4344-4b43-b2c0-7c7d7ed091f1.gif)
